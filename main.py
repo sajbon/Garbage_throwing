@@ -26,9 +26,9 @@ def send_email(sender_email, sender_password, recipient_email, subject, message)
 
 
 # Example usage
-sender_email = "smieciwywoz@outlook.com"
-sender_password = "kurwachuj123"
-recipient_email = "milosz.sibon@gmail.com"
+sender_email = ""
+sender_password = ""
+recipient_email = ""
 subject = "Wywóz śmieci"
 message = "Śmieci są do wyjebania"
 
